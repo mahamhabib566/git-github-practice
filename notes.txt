@@ -1,0 +1,3 @@
+Git is a version control system.
+Github is used to store and share code online.
+This is my practice repository.
